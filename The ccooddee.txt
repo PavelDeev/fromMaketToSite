@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    color: aliceblue;
+}
+h1 {
+    background-color: rgb(0, 217, 255);
+    color: white;
+    padding: 10px;
+}
+
+img {
+    height: 180px;
+    padding: 15px;
+}
+text{
+    padding: 10px;
+}
+
+p, ul {
+    font-size: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(69, 138, 218);
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 100px;
+}
+header{
+    padding:1px
+}
+main{
+    background-color: rgb(88, 204, 240);
+}
+footer{
+    background-color: rgb(88, 204, 240);
+    height:5px;
+    padding: 50px;
+}
